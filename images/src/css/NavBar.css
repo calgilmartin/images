@@ -1,0 +1,22 @@
+.navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #2d2424;
+    color: white;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.nav-link {
+    margin-right: 1rem;
+    color: white;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    background-color: rgba(85, 53, 53, 0.1);
+}
